@@ -1,0 +1,5 @@
+﻿  LISTITEM.cpp
+  program.cpp
+  Generating Code...
+E:\Kmin\doan\code\main\main\LISTITEM.cpp(162): warning C4715: 'LISTITEM::showList': not all control paths return a value
+  main.vcxproj -> E:\Kmin\doan\code\main\Debug\main.exe
